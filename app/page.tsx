@@ -23,6 +23,7 @@ export default function Home() {
             },
           },
         },
+
         scrollYOffset: 60,
         hideDownloadButton: false,
         disableSearch: false,
